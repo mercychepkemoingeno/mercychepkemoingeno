@@ -1,8 +1,8 @@
 ## About Me
 
-👋 Hi there, I'm [Your Name]!
+👋 Hi there, I'm mercy
 
-I'm a passionate [Your Profession] based in [Your Location]. I love building software solutions and exploring new technologies.
+I'm a passionate software engineer. I love building software solutions and exploring new technologies.
 
 ### 🔭 I’m currently working on
 - [Project 1]
